@@ -15,7 +15,8 @@ git init
 
  Staging are files that are being tracked to be comitted
 
- use git staus to see whic files are untracked (red) or in staging (green)
+ use git staus to see which files are untracked (red) or in staging (green)
+
  ```
  git status
  ```
@@ -34,4 +35,16 @@ git init
 
 ```
 
-**If you forget the -m, you'll end up im vim, th exit, tyoe ":wq"**
+**If you forget the -m, you'll end up im vim, th exit, type ":wq"**
+
+---
+
+## Looking at our commit history
+
+```
+git log
+```
+
+```
+git log --oneline
+```
