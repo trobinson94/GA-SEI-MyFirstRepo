@@ -24,3 +24,14 @@ git init
  - Add oone file at a time `git add <filename>`
  -Add all files in the repo `git add -A`
  -Add all files in my current folder with `git add`
+
+ ---
+
+ ## Comitting files to our repo
+
+ ```
+ git commit -m "descriptive messeage"
+
+```
+
+**If you forget the -m, you'll end up im vim, th exit, tyoe ":wq"**
